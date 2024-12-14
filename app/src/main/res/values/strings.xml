@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VideoServiceApp</string>
+    <string name="previous_fragment">Previous Fragment</string>
+</resources>
